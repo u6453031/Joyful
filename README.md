@@ -45,11 +45,13 @@ Come to <a href="https://drive.google.com/drive/folders/1bM7bPwph3emiZHA4MKNawz3
 
 ## Project Management Tools
 
+* [Monday](https://edgar167986.monday.com/boards/1536137499) (Project Management)
+* [Github](https://github.com/u6453031/Joyful/tree/main) (Landing Page)
 * [Google Drive](https://drive.google.com/drive/folders/1EYXEEm-YDQSSjJCPR3694MO68n5TeR-T) (Documentation)
 * [Zoom](https://zoom.us) (Client Meeting & General Discussion)
-* [Github](https://github.com/GuideXP/guidexp/tree/staging) (Code Management)
 * [Slack](https://app.slack.com/client/T01LSELGRL3/C01Q9FTLC04) (Tutor Communication)
-* [Monday](https://edgar167986.monday.com/boards/1536137499) (Project Management)
+* [Wechat](https://web.wechat.com/?lang=en) (Client Meeting & General Discussion)
+* [WhatsApp](https://web.whatsapp.com)(Client Meeting & General Discussion)_
 
 ## Websites
 
