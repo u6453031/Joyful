@@ -12,7 +12,7 @@
 
 ## Introduction
 
-
+The Joyful Fashionista seeks to encourage sustainability in fashion by creating an online site for buying and selling second-hand clothing. In essence, it is like a giant op shop. The website is currently being developed using angular language. One of the key issues to overcoming the 'valley of death' with this project is encouraging people to list items for sale on the platform. This semester, we will use gamification to incentivise people to list their fabulous items on the site.
 
 
 ## Clients
