@@ -36,12 +36,12 @@ Come to <a href="https://drive.google.com/drive/folders/1bM7bPwph3emiZHA4MKNawz3
 
 | Name              | UID      | Main Role           | Other Role(s)   |
 | ----------------- | -------- | ------------------- | --------------- |
-| Yuxin Deng        | u6453031 |                     |  Spokesperson   |
-| Fengqing Wu       | u7166770 |                     |  Spokesperson   |
-| Shuhui Dong       | u7012230 |                     |                 |
-| Xiaotong Yang     | u6842114 |                     |                 |
-| Ziwei Wang        | u6786774 |                     |                 |
-| Xi Zhang          | u7174028 |                     |                 |
+| Yuxin Deng        | u6453031 | front-end developer |  Spokesperson   |
+| Fengqing Wu       | u7166770 | front-end developer |  Spokesperson   |
+| Shuhui Dong       | u7012230 | front-end developer |                 |
+| Xiaotong Yang     | u6842114 | back-end developer  |                 |
+| Ziwei Wang        | u6786774 | back-end developer  |                 |
+| Xi Zhang          | u7174028 | back-end developer  |                 |
 
 ## Project Management Tools
 
