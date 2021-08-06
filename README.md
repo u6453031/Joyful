@@ -27,7 +27,7 @@ Come to <a href="https://drive.google.com/drive/folders/1bM7bPwph3emiZHA4MKNawz3
   - <a href=" ">Statement of Work</a>
   - [IP Agreement]()
   - <a href="https://docs.google.com/spreadsheets/d/135tnksvztsENmrAN8_4aWGw-TsDllTpG/edit#gid=905910261">Risk Assessment</a>
-  - <a href=" ">Meeting Minutes</a>
+  - <a href="https://drive.google.com/drive/folders/1ucczkT4phnvoJPcNjaxpIVCvHBDNjDbB">Meeting Minutes</a>
   - <a href="https://docs.google.com/spreadsheets/d/1qLa_uOHhZtF04Zk3fwyRBSxNu5ZIYoOU/edit#gid=1651838644">Decision Log</a>
   - <a href="https://docs.google.com/spreadsheets/d/1X7alFyF19H8Q740mzGUBw4gNJxWufAUl/edit?rtpof=true#gid=1900046088">Effort Log</a>
 
