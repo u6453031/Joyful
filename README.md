@@ -24,8 +24,8 @@ The Joyful Fashionista seeks to encourage sustainability in fashion by creating 
 
 Come to <a href="https://drive.google.com/drive/folders/1bM7bPwph3emiZHA4MKNawz3mOIQRuwcr">Google Grive</a> to see all documents
 
-  - <a href="https://drive.google.com/drive/folders/1ih3bu5RZNfCrxNHkSXXCRWBYHviR1FZS">Statement of Work</a>
-  - <a href="https://drive.google.com/drive/folders/1ih3bu5RZNfCrxNHkSXXCRWBYHviR1FZS">IP Agreement</a>
+  - <a href="https://drive.google.com/drive/folders/1rGMV09DvLGUQj49l7cGAazYoBmpyBSZT">Statement of Work</a>
+  - <a href="https://drive.google.com/drive/folders/1rGMV09DvLGUQj49l7cGAazYoBmpyBSZT">IP Agreement</a>
   - <a href="https://drive.google.com/drive/folders/1ZcHB7yqxaZ-Vj5rogNaCm3GCa_FjAzkv">Risk Assessment</a>
   - <a href="https://drive.google.com/drive/folders/1ucczkT4phnvoJPcNjaxpIVCvHBDNjDbB">Meeting Minutes</a>
   - <a href="https://drive.google.com/drive/folders/1YH3GgVKqmLInCZJAEVPa8LDwV5Z690Zq">Decision Log</a>
