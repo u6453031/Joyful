@@ -26,10 +26,10 @@ Come to <a href="https://drive.google.com/drive/folders/1bM7bPwph3emiZHA4MKNawz3
 
   - <a href="https://drive.google.com/drive/folders/1ih3bu5RZNfCrxNHkSXXCRWBYHviR1FZS">Statement of Work</a>
   - <a href="https://drive.google.com/drive/folders/1ih3bu5RZNfCrxNHkSXXCRWBYHviR1FZS">IP Agreement</a>
-  - <a href="https://docs.google.com/spreadsheets/d/135tnksvztsENmrAN8_4aWGw-TsDllTpG/edit#gid=905910261">Risk Assessment</a>
+  - <a href="https://drive.google.com/drive/folders/1ZcHB7yqxaZ-Vj5rogNaCm3GCa_FjAzkv">Risk Assessment</a>
   - <a href="https://drive.google.com/drive/folders/1ucczkT4phnvoJPcNjaxpIVCvHBDNjDbB">Meeting Minutes</a>
-  - <a href="https://docs.google.com/spreadsheets/d/1qLa_uOHhZtF04Zk3fwyRBSxNu5ZIYoOU/edit#gid=1651838644">Decision Log</a>
-  - <a href="https://docs.google.com/spreadsheets/d/1X7alFyF19H8Q740mzGUBw4gNJxWufAUl/edit?rtpof=true#gid=1900046088">Effort Log</a>
+  - <a href="https://drive.google.com/drive/folders/1YH3GgVKqmLInCZJAEVPa8LDwV5Z690Zq">Decision Log</a>
+  - <a href="https://drive.google.com/drive/folders/15AAlkbmQxxp1Y-bnSmvliD4jJffaWwW3">Effort Log</a>
 
 
 ## Development Team
