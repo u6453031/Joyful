@@ -47,7 +47,7 @@ Come to <a href="https://drive.google.com/drive/folders/1bM7bPwph3emiZHA4MKNawz3
 
 * [Monday](https://edgar167986.monday.com/boards/1536137499) (Project Management)
 * [Github](https://github.com/u6453031/Joyful/tree/main) (Landing Page)
-* [Google Drive](https://drive.google.com/drive/folders/1EYXEEm-YDQSSjJCPR3694MO68n5TeR-T) (Documentation)
+* [Google Drive](https://drive.google.com/drive/folders/1bM7bPwph3emiZHA4MKNawz3mOIQRuwcr) (Documentation)
 * [Zoom](https://zoom.us) (Client Meeting & General Discussion)
 * [Slack](https://app.slack.com/client/T01LSELGRL3/C01Q9FTLC04) (Tutor Communication)
 * [Wechat](https://web.wechat.com/?lang=en) (Client Meeting & General Discussion)
