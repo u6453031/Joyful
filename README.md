@@ -45,7 +45,7 @@ Come to <a href="https://drive.google.com/drive/folders/1bM7bPwph3emiZHA4MKNawz3
 
 ## Project Management Tools
 
-* [Monday](https://edgar167986.monday.com/boards/1536137499) (Project Management)
+* [Google Drive](https://docs.google.com/spreadsheets/d/1uTVNq-TRriLyWGHdYeMivwb_OOpOsT9f/edit#gid=918628382) (Project Management)
 * [Github](https://github.com/u6453031/Joyful/tree/main) (Landing Page)
 * [Google Drive](https://drive.google.com/drive/folders/1bM7bPwph3emiZHA4MKNawz3mOIQRuwcr) (Documentation)
 * [Zoom](https://zoom.us) (Client Meeting & General Discussion)
