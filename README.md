@@ -63,11 +63,11 @@ Tutor: Elena Williams
 Examiner: Charles Gretton
 
 ## Weekly Meeting
-| Date          | Time(AEST)| Type             | 
-| ----------- - | --------  | --------------   |
-| Tuesday       |20:00-21:00| Client Meeting.  |
-| Wednesday     |12:00-14:00| Tutorial Meeting | 
-| Sunday        |20:00-21:00| Team Meeting     |
+| Date       | Time(AEST)| Type             | 
+| -----------| --------  | --------------   |
+| Tuesday    |20:00-21:00| Client Meeting.  |
+| Wednesday  |12:00-14:00| Tutorial Meeting | 
+| Sunday     |20:00-21:00| Team Meeting     |
 
 
 
