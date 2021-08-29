@@ -75,9 +75,9 @@ Come to <a href="https://drive.google.com/drive/folders/1bM7bPwph3emiZHA4MKNawz3
 https://www.joyfulfashionista.com
 
 ## Toturial
-Tutorial Time: Wednesday, 12.00-14.00 AEST
-Tutor: Elena Williams
-Examiner: Charles Gretton
+* Tutorial Time: Wednesday, 12.00-14.00 AEST
+* Tutor: Elena Williams
+* Examiner: Charles Gretton
 
 ## Weekly Meeting
 | Date       | Time(AEST)| Type             | 
